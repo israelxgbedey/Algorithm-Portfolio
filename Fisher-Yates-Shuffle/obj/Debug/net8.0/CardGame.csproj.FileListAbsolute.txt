@@ -1,0 +1,14 @@
+/home/israel/CardGame/bin/Debug/net8.0/CardGame
+/home/israel/CardGame/bin/Debug/net8.0/CardGame.deps.json
+/home/israel/CardGame/bin/Debug/net8.0/CardGame.runtimeconfig.json
+/home/israel/CardGame/bin/Debug/net8.0/CardGame.dll
+/home/israel/CardGame/bin/Debug/net8.0/CardGame.pdb
+/home/israel/CardGame/obj/Debug/net8.0/CardGame.GeneratedMSBuildEditorConfig.editorconfig
+/home/israel/CardGame/obj/Debug/net8.0/CardGame.AssemblyInfoInputs.cache
+/home/israel/CardGame/obj/Debug/net8.0/CardGame.AssemblyInfo.cs
+/home/israel/CardGame/obj/Debug/net8.0/CardGame.csproj.CoreCompileInputs.cache
+/home/israel/CardGame/obj/Debug/net8.0/CardGame.dll
+/home/israel/CardGame/obj/Debug/net8.0/refint/CardGame.dll
+/home/israel/CardGame/obj/Debug/net8.0/CardGame.pdb
+/home/israel/CardGame/obj/Debug/net8.0/CardGame.genruntimeconfig.cache
+/home/israel/CardGame/obj/Debug/net8.0/ref/CardGame.dll
