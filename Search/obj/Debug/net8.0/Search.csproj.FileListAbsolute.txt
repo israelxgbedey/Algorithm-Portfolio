@@ -1,0 +1,14 @@
+C:\Users\markg\source\repos\Search\bin\Debug\net8.0\Search.exe
+C:\Users\markg\source\repos\Search\bin\Debug\net8.0\Search.deps.json
+C:\Users\markg\source\repos\Search\bin\Debug\net8.0\Search.runtimeconfig.json
+C:\Users\markg\source\repos\Search\bin\Debug\net8.0\Search.dll
+C:\Users\markg\source\repos\Search\bin\Debug\net8.0\Search.pdb
+C:\Users\markg\source\repos\Search\obj\Debug\net8.0\Search.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\markg\source\repos\Search\obj\Debug\net8.0\Search.AssemblyInfoInputs.cache
+C:\Users\markg\source\repos\Search\obj\Debug\net8.0\Search.AssemblyInfo.cs
+C:\Users\markg\source\repos\Search\obj\Debug\net8.0\Search.csproj.CoreCompileInputs.cache
+C:\Users\markg\source\repos\Search\obj\Debug\net8.0\Search.dll
+C:\Users\markg\source\repos\Search\obj\Debug\net8.0\refint\Search.dll
+C:\Users\markg\source\repos\Search\obj\Debug\net8.0\Search.pdb
+C:\Users\markg\source\repos\Search\obj\Debug\net8.0\Search.genruntimeconfig.cache
+C:\Users\markg\source\repos\Search\obj\Debug\net8.0\ref\Search.dll
