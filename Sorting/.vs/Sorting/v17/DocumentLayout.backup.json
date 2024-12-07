@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\markg\\source\\repos\\Sorting\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE024941-0826-480B-A51C-445120D4D624}|Sorting.csproj|c:\\users\\markg\\source\\repos\\sorting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE024941-0826-480B-A51C-445120D4D624}|Sorting.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE024941-0826-480B-A51C-445120D4D624}|Sorting.csproj|c:\\users\\markg\\source\\repos\\sorting\\quicksort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE024941-0826-480B-A51C-445120D4D624}|Sorting.csproj|solutionrelative:quicksort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE024941-0826-480B-A51C-445120D4D624}|Sorting.csproj|c:\\users\\markg\\source\\repos\\sorting\\mergesort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE024941-0826-480B-A51C-445120D4D624}|Sorting.csproj|solutionrelative:mergesort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE024941-0826-480B-A51C-445120D4D624}|Sorting.csproj|c:\\users\\markg\\source\\repos\\sorting\\heapsort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE024941-0826-480B-A51C-445120D4D624}|Sorting.csproj|solutionrelative:heapsort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE024941-0826-480B-A51C-445120D4D624}|Sorting.csproj|c:\\users\\markg\\source\\repos\\sorting\\insertionsort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE024941-0826-480B-A51C-445120D4D624}|Sorting.csproj|solutionrelative:insertionsort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE024941-0826-480B-A51C-445120D4D624}|Sorting.csproj|c:\\users\\markg\\source\\repos\\sorting\\arrayutilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE024941-0826-480B-A51C-445120D4D624}|Sorting.csproj|solutionrelative:arrayutilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE024941-0826-480B-A51C-445120D4D624}|Sorting.csproj|c:\\users\\markg\\source\\repos\\sorting\\selectionsort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE024941-0826-480B-A51C-445120D4D624}|Sorting.csproj|solutionrelative:selectionsort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE024941-0826-480B-A51C-445120D4D624}|Sorting.csproj|c:\\users\\markg\\source\\repos\\sorting\\bubblesort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE024941-0826-480B-A51C-445120D4D624}|Sorting.csproj|solutionrelative:bubblesort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MergeSort.cs",
+              "DocumentMoniker": "C:\\Users\\markg\\source\\repos\\Sorting\\MergeSort.cs",
+              "RelativeDocumentMoniker": "MergeSort.cs",
+              "ToolTip": "C:\\Users\\markg\\source\\repos\\Sorting\\MergeSort.cs",
+              "RelativeToolTip": "MergeSort.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T04:59:07.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QuickSort.cs",
+              "DocumentMoniker": "C:\\Users\\markg\\source\\repos\\Sorting\\QuickSort.cs",
+              "RelativeDocumentMoniker": "QuickSort.cs",
+              "ToolTip": "C:\\Users\\markg\\source\\repos\\Sorting\\QuickSort.cs",
+              "RelativeToolTip": "QuickSort.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T04:58:13.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HeapSort.cs",
+              "DocumentMoniker": "C:\\Users\\markg\\source\\repos\\Sorting\\HeapSort.cs",
+              "RelativeDocumentMoniker": "HeapSort.cs",
+              "ToolTip": "C:\\Users\\markg\\source\\repos\\Sorting\\HeapSort.cs",
+              "RelativeToolTip": "HeapSort.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T04:56:52.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SelectionSort.cs",
+              "DocumentMoniker": "C:\\Users\\markg\\source\\repos\\Sorting\\SelectionSort.cs",
+              "RelativeDocumentMoniker": "SelectionSort.cs",
+              "ToolTip": "C:\\Users\\markg\\source\\repos\\Sorting\\SelectionSort.cs",
+              "RelativeToolTip": "SelectionSort.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T04:56:07.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\markg\\source\\repos\\Sorting\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\markg\\source\\repos\\Sorting\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAuwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T04:42:54.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InsertionSort.cs",
+              "DocumentMoniker": "C:\\Users\\markg\\source\\repos\\Sorting\\InsertionSort.cs",
+              "RelativeDocumentMoniker": "InsertionSort.cs",
+              "ToolTip": "C:\\Users\\markg\\source\\repos\\Sorting\\InsertionSort.cs",
+              "RelativeToolTip": "InsertionSort.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T04:55:28.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BubbleSort.cs",
+              "DocumentMoniker": "C:\\Users\\markg\\source\\repos\\Sorting\\BubbleSort.cs",
+              "RelativeDocumentMoniker": "BubbleSort.cs",
+              "ToolTip": "C:\\Users\\markg\\source\\repos\\Sorting\\BubbleSort.cs",
+              "RelativeToolTip": "BubbleSort.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T04:54:13.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ArrayUtilities.cs",
+              "DocumentMoniker": "C:\\Users\\markg\\source\\repos\\Sorting\\ArrayUtilities.cs",
+              "RelativeDocumentMoniker": "ArrayUtilities.cs",
+              "ToolTip": "C:\\Users\\markg\\source\\repos\\Sorting\\ArrayUtilities.cs",
+              "RelativeToolTip": "ArrayUtilities.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T04:53:04.507Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
