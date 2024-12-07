@@ -10,7 +10,7 @@ namespace Search
         static void Main(string[] args)
         {
             int[] scores = DataLoader.LoadData("scores.txt");
-            int target = 10;
+            int target = 85;
 
             Console.WriteLine("Searching Algorithm Performance:");
 
