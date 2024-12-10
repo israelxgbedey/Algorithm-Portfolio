@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\markg\\source\\repos\\Tree Structures\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{057557B1-F969-4A57-9E74-3971C7177345}|Tree Structures.csproj|c:\\users\\markg\\source\\repos\\tree structures\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{057557B1-F969-4A57-9E74-3971C7177345}|Tree Structures.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{057557B1-F969-4A57-9E74-3971C7177345}|Tree Structures.csproj|c:\\users\\markg\\source\\repos\\tree structures\\sortingalgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{057557B1-F969-4A57-9E74-3971C7177345}|Tree Structures.csproj|solutionrelative:sortingalgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{057557B1-F969-4A57-9E74-3971C7177345}|Tree Structures.csproj|c:\\users\\markg\\source\\repos\\tree structures\\binarysearchtree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{057557B1-F969-4A57-9E74-3971C7177345}|Tree Structures.csproj|solutionrelative:binarysearchtree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{057557B1-F969-4A57-9E74-3971C7177345}|Tree Structures.csproj|c:\\users\\markg\\source\\repos\\tree structures\\treenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{057557B1-F969-4A57-9E74-3971C7177345}|Tree Structures.csproj|solutionrelative:treenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SortingAlgorithm.cs",
+              "DocumentMoniker": "C:\\Users\\markg\\source\\repos\\Tree Structures\\SortingAlgorithm.cs",
+              "RelativeDocumentMoniker": "SortingAlgorithm.cs",
+              "ToolTip": "C:\\Users\\markg\\source\\repos\\Tree Structures\\SortingAlgorithm.cs",
+              "RelativeToolTip": "SortingAlgorithm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T04:57:49.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BinarySearchTree.cs",
+              "DocumentMoniker": "C:\\Users\\markg\\source\\repos\\Tree Structures\\BinarySearchTree.cs",
+              "RelativeDocumentMoniker": "BinarySearchTree.cs",
+              "ToolTip": "C:\\Users\\markg\\source\\repos\\Tree Structures\\BinarySearchTree.cs",
+              "RelativeToolTip": "BinarySearchTree.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA1wDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T04:57:07.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TreeNode.cs",
+              "DocumentMoniker": "C:\\Users\\markg\\source\\repos\\Tree Structures\\TreeNode.cs",
+              "RelativeDocumentMoniker": "TreeNode.cs",
+              "ToolTip": "C:\\Users\\markg\\source\\repos\\Tree Structures\\TreeNode.cs",
+              "RelativeToolTip": "TreeNode.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T04:56:34.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\markg\\source\\repos\\Tree Structures\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\markg\\source\\repos\\Tree Structures\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T04:56:10.868Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

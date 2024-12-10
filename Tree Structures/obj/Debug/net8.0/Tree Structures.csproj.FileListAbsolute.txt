@@ -1,0 +1,14 @@
+C:\Users\markg\source\repos\Tree Structures\bin\Debug\net8.0\Tree Structures.exe
+C:\Users\markg\source\repos\Tree Structures\bin\Debug\net8.0\Tree Structures.deps.json
+C:\Users\markg\source\repos\Tree Structures\bin\Debug\net8.0\Tree Structures.runtimeconfig.json
+C:\Users\markg\source\repos\Tree Structures\bin\Debug\net8.0\Tree Structures.dll
+C:\Users\markg\source\repos\Tree Structures\bin\Debug\net8.0\Tree Structures.pdb
+C:\Users\markg\source\repos\Tree Structures\obj\Debug\net8.0\Tree Structures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\markg\source\repos\Tree Structures\obj\Debug\net8.0\Tree Structures.AssemblyInfoInputs.cache
+C:\Users\markg\source\repos\Tree Structures\obj\Debug\net8.0\Tree Structures.AssemblyInfo.cs
+C:\Users\markg\source\repos\Tree Structures\obj\Debug\net8.0\Tree Structures.csproj.CoreCompileInputs.cache
+C:\Users\markg\source\repos\Tree Structures\obj\Debug\net8.0\Tree Structures.dll
+C:\Users\markg\source\repos\Tree Structures\obj\Debug\net8.0\refint\Tree Structures.dll
+C:\Users\markg\source\repos\Tree Structures\obj\Debug\net8.0\Tree Structures.pdb
+C:\Users\markg\source\repos\Tree Structures\obj\Debug\net8.0\Tree Structures.genruntimeconfig.cache
+C:\Users\markg\source\repos\Tree Structures\obj\Debug\net8.0\ref\Tree Structures.dll
